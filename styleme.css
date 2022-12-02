@@ -53,6 +53,7 @@ text-decoration: underline;
 a:active {
 text-decoration: underline;
 }
+
 p::first-letter {
     font-size: 150%;
     font-weight:bold;
@@ -95,3 +96,28 @@ transform: translateX(70%);
 transform: translateX(0%); 
 }
 }
+
+dl {
+display: block;
+margin-top: 1em;
+margin-bottom: 1em;
+margin-left: 0;
+margin-right: 0;
+color: Red
+}
+dd{
+color : black ;
+font-size:15px;
+}
+dt{
+font-size:18px;
+font-weight:bold; 
+color : LightSeaGreen ;
+}
+
+
+ol {
+display: flex;
+flex-direction: column-reverse;
+}
+
