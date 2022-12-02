@@ -1,0 +1,55 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/326/334/original/gradient-light-color-background-graphic-free-vector.jpg"); 
+    color : rgb(196, 34, 123);
+    font-size:20px;
+    font-weight:bold;
+    font-family: Bradley Hand ITC;
+}
+h1 {
+    text-decoration: underline;
+    font-size:60px;
+    color: rgb(94, 59, 75);
+    font-family:Freestyle Script
+}
+h2 {
+    text-decoration: underline;
+    font-size:30px;
+    color:rgb(161, 49, 102); 
+    font-weight:bold; 
+    font-style:normal;
+    font-family: Freestyle Script;
+
+
+}	
+li {
+    font-size:20px;
+    font-weight:bold;
+    font-family: Bradley Hand ITC;
+}
+p {
+    color : rgb(196, 34, 123);
+    font-size:20px;
+    font-weight:bold;
+    font-family: Bradley Hand ITC;
+}
+strong {
+    color : rgb(231, 16, 16);
+}
+
+a:link {
+color: Red ;
+text-decoration: underline;
+}
+
+a:visited {
+
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+a:active {
+text-decoration: underline;
+}
